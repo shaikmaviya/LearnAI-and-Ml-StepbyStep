@@ -9,5 +9,8 @@ while count<n:
     nums[count]=0
     count+=1
         
+        
+        
+        
 print(nums)
                 
