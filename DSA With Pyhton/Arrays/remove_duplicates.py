@@ -10,8 +10,6 @@ for k in frequency:
     j+=1
     
     
-    
-    
 print("Length of array after removing duplicates:",len(frequency))
 print(nums)
 
