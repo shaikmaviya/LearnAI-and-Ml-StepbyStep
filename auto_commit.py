@@ -1,6 +1,11 @@
 import os
+from datetime import datetime
 
-commit_message = input("Enter your commit message: ")
+
+current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+commit_message = current_time
+
 
 os.system("git add .")
 os.system(f'git commit -m "{commit_message}"')
