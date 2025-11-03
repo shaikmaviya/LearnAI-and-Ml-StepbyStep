@@ -6,7 +6,7 @@ for i in range(n):
         nums[count]=nums[i]
         count+=1
 while count<n:
-    
+
     nums[count]=0
     count+=1
         
