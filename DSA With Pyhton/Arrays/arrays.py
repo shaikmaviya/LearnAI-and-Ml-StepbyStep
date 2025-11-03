@@ -19,6 +19,7 @@
 
 # # a.remove(5)
 # # print(*a)
+
 # # a.pop(1)
 # # print(*a)
 # slice = a[:]
